@@ -18,7 +18,6 @@ DoorList = {
 
 RegisterNetEvent('Diesel-lapheist:Client:SetDoorsOpenedState', function (state)
     for i, v in pairs (DoorList) do 
-		print(v, state)
         TriggerServerEvent('qb-doorlock:server:updateState', v, state, false, false, true)
     end
 end)
