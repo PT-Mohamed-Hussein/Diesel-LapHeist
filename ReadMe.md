@@ -12,7 +12,9 @@ add images inside the `imgs` to your `qb-inventory`
 
 add items inside `shared.lua` to your `qb-core` script
 
-using old way to handle doors should be changed to qb-doorlock soon
+move the `lapdoors` to the `qb-doorlock`
+
+enjoy it 
 
 Dont Forget To Visit My Discord If You Have ANy Problem With The script
 https://discord.gg/gnPDMzPcs9
