@@ -595,6 +595,7 @@ RegisterNetEvent('Diesel-Lapheist:Client:ResetHeist', function()
     SetEntityInvincible(ped2, true)
     SetBlockingOfNonTemporaryEvents(ped2, true)
     FreezeEntityPosition(ped2, true)
+    exports['qb-target']:RemoveZone("PedStartHeist")
 
     exports['qb-target']:AddEntityZone("PedStartHeist", ped2, {
         name = "PedStartHeist",
