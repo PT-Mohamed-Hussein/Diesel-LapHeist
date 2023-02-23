@@ -9,7 +9,9 @@ Config.DoorList['lapdoors-firstlapdoor'] = {
     },
     doorLabel = 'firstlapdoor',
     doorRate = 1.0,
-    distance = 1,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
+    distance = 2.0,
     locked = true,
 }
 
@@ -22,7 +24,9 @@ Config.DoorList['lapdoors-secondlapdoor'] = {
     },
     doorLabel = 'secondlapdoor',
     doorRate = 1.0,
-    distance = 1,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
+    distance = 2.0,
     locked = true,
 }
 
@@ -35,7 +39,9 @@ Config.DoorList['lapdoors-thirdlapdoor'] = {
     },
     doorLabel = 'thirdlapdoor',
     doorRate = 1.0,
-    distance = 1,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
+    distance = 2.0,
     locked = true,
 }
 
@@ -48,7 +54,9 @@ Config.DoorList['lapdoors-fourthlapdoor'] = {
     },
     doorLabel = 'fourthlapdoor',
     doorRate = 1.0,
-    distance = 1,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
+    distance = 2.0,
     locked = true,
 }
 
@@ -61,7 +69,9 @@ Config.DoorList['lapdoors-fifthlapdoor'] = {
     },
     doorLabel = 'fifthlapdoor',
     doorRate = 1.0,
-    distance = 1,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
+    distance = 2.0,
     locked = true,
 }
 
@@ -74,7 +84,9 @@ Config.DoorList['lapdoors-sixthlapdoor'] = {
     },
     doorLabel = 'sixthlapdoor',
     doorRate = 1.0,
-    distance = 1,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
+    distance = 2.0,
     locked = true,
 }
 
@@ -82,12 +94,14 @@ Config.DoorList['lapdoors-sixthlapdoor'] = {
 Config.DoorList['lapdoors-seventhlapdoor'] = {
     doorType = 'sliding',
     doorRate = 1.0,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
     fixText = false,
     objYaw = 260.0,
     objName = 161378502,
     objCoords = vec3(3557.553223, 3669.194092, 27.121582),
     doorLabel = 'seventhlapdoor',
-    distance = 1,
+    distance = 2.0,
     locked = true,
 }
 
@@ -100,7 +114,9 @@ Config.DoorList['lapdoors-eigththlapdoor'] = {
     },
     doorLabel = 'eigththlapdoor',
     doorRate = 1.0,
-    distance = 1,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
+    distance = 2.0,
     locked = true,
 }
 
@@ -113,7 +129,9 @@ Config.DoorList['lapdoors-ninethlapdoor'] = {
     },
     doorLabel = 'ninethlapdoor',
     doorRate = 1.0,
-    distance = 1,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
+    distance = 2.0,
     locked = true,
 }
 
@@ -126,7 +144,9 @@ Config.DoorList['lapdoors-tenthlapdoor'] = {
     },
     doorLabel = 'tenthlapdoor',
     doorRate = 1.0,
-    distance = 1,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
+    distance = 2.0,
     locked = true,
 }
 
@@ -139,7 +159,9 @@ Config.DoorList['lapdoors-elevenlapdoor'] = {
     },
     doorLabel = 'elevenlapdoor',
     doorRate = 1.0,
-    distance = 1,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
+    distance = 2.0,
     locked = true,
 }
 
@@ -152,7 +174,9 @@ Config.DoorList['lapdoors-tewelvthlapdoor'] = {
     },
     doorLabel = 'tewelvthlapdoor',
     doorRate = 1.0,
-    distance = 1,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
+    distance = 2.0,
     locked = true,
 }
 
@@ -165,6 +189,8 @@ Config.DoorList['lapdoors-therteenthlapdoor'] = {
     },
     doorLabel = 'therteenthlapdoor',
     doorRate = 1.0,
-    distance = 1,
+    pickable = true,
+    authorizedJobs = { ['Police'] = 0 },
+    distance = 2.0,
     locked = true,
 }
