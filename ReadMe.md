@@ -5,6 +5,7 @@ Today we Are Going to Publish New LabHeist Script Its Casual script with old not
 we also using some animation that used in rm_LabHeist So Big Thanks To Him 
 
 You Will Also Want To Download The Diesel-Hack Script
+https://github.com/PT-Mohamed-Hussein/Diesel-Hack
 
 you need to just download script move the content of `inv.js` to the js of your `qb-inventory` script
 
